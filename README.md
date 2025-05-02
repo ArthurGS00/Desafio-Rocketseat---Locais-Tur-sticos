@@ -1,0 +1,1 @@
+Esse foi o desafio do curso da Rocketseat. Tive bastante dificuldade para concluir, e sei que ainda não está 100% fiel ao layout do Figma — mas fiquei satisfeito por ter conseguido entregar algo funcional!
